@@ -1,8 +1,8 @@
 # Free Cool CSS Frameworks
 
-  * [Bootstrap](http://getbootstrap.com/) : The world's most popular mobile-first and responsive front-end framework.
+  * [Bootstrap](http://getbootstrap.com/) : The world's most popular mobile-first and responsive front-end framework
   * [Material Design Lite](https://getmdl.io/templates/index.html) : Material Design Components in HTML/CSS/JS
-  * [hack.css](http://hackcss.com/) : As many hackers enjoy the readability of markdown code, some stylings in hack.css are exactly the way markdown is
+  * [hack.css](http://hackcss.com/) : hack.css are exactly the way markdown is
   
 ## Bootstrap Theme
 
